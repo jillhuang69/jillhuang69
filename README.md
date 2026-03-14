@@ -13,6 +13,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jillhuang69&label=Profile%20views&color=0e75b6&style=flat" alt="yuzehao2023" /> </p>
 
+- Hignlights: I am the Contributor of [Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers)
+
 - 💬 Ask me  **all about Deep Learning**
 
 - ⚡ Fun fact **I am an AI researcher**
